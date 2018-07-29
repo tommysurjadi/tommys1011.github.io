@@ -1,0 +1,48 @@
+html{
+    background-image: url("image2.jfif");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+#listformat {
+    color: rgb(1, 66, 66);
+    font-size: 20;
+    text-decoration: none;
+    display: inline;
+    padding:10px;
+    text-align: center;
+}
+
+.myclass{
+    color:rgb(2, 97, 2);
+    font-size: 30;
+}
+
+#headerformat{
+    color: rgb(1, 66, 66);
+    font-size: 40;
+    text-align: center;
+    display: block;
+    Width:800px;
+}
+.imageformat{
+    width:250px;
+    display:inline;
+    padding:5px;
+    text-align:center;
+}
+
+section{
+    text-align:center;
+}
+
+#footerformat{
+    width: 800px;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+#ulformat{
+    list-style-type: none;
+}

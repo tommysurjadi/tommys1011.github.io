@@ -1,0 +1,32 @@
+html{
+    background-color: rgb(37, 100, 126);
+    color: black;
+}
+header{
+    color: white;
+    background-color: black;
+    text-align: center;
+    display: block;
+    font-size: 20px
+}
+#LeftJustified{
+    text-align: left;
+    padding-left: 15px;
+}
+nav{
+    background-color: rgb(7, 3, 15);
+    width: 15%;
+    height: 100%;
+    font-size: 18px;
+    float: left;
+    margin-right: 20px;
+}
+section{
+    width: 80%;
+    display: inline-block;
+    margin:0px;
+}
+img{
+    width: 100%
+}
+/* body{

@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(86, 134, 134);
+    text-align: center;
+}
+.dinoHeaderFooter {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+}
+.hometext {
+    text-align: center;
+    font-size: 20px;
+}
+#dinotitle {
+    font-size: 5em;
+}
+#tagline {
+    color: rgb(0, 0, 0);
+    font-size:2.5em;
+}
+nav {
+    background-color:rgb(75, 82, 83);
+}
+li a {
+    font-size: 1.25em;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 1.5em;
+    color: rgb(255, 255, 255);
+}
+#homenav ul {
+    list-style: none;
+}
+.sectionheader {
+    font-size: 1.75em;
+    color: rgb(255, 255, 255);
+}
+.homephoto {
+    border-radius: 20%;
+    margin: 20px;
+    box-shadow: 5px 10px;
+    border: 2px solid black;
+}
